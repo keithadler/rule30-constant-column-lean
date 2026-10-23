@@ -1,0 +1,5 @@
+name = "rule30_constant_column"
+defaultTargets = ["ConstColumn"]
+
+[[lean_lib]]
+name = "ConstColumn"
